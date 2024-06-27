@@ -1,0 +1,13 @@
+/* src/styles.css */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full height of the viewport */
+  }
+  
+  .map {
+    width: 80%; /* You can adjust the width and height as needed */
+    height: 80%;
+  }
+  
